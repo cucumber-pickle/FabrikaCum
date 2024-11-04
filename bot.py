@@ -4,7 +4,6 @@ import os
 import random
 from core.helper import get_headers, countdown_timer, extract_user_data, config
 from colorama import *
-import random
 from datetime import datetime, timedelta
 import time
 import pytz
